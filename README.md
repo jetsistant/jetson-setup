@@ -1,2 +1,3 @@
-# jetson-setup
-Jetson Nano development environment setup
+## Development Environment Setup on Jetson Nano
+
+See Issues and Wiki.
